@@ -22,7 +22,10 @@ dalvanirass@gmail.com
 - Anexo: Captura de tela ( Apenas em casos de erro)
 
 
+## Redes Sociais:
 
+- Facebook: [Clique aqui](https://www.facebook.com/seniorsaplicativo)
+- Instagram: [Clique aqui](https://www.instagram.com/seniors_app/)
 
 
 
