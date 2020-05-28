@@ -1,4 +1,4 @@
-### Sobre a aplicação
+# Sobre a aplicação
 
 A Seniors APP é uma Solução para acompanhamento e gerenciamento das atividades diárias do estado de saúde de idosos. Permite que as famílias, clínicas e/ou cuidadores gerenciem atividades relacionadas à saúde realizadas pelo idoso, desde o histórico médico, até o uso de medicamentos. 
 
@@ -6,14 +6,14 @@ O SeniorsApp oferece tranquilidade, transparência, segurança e acompanhamento 
 
 A Aplicação possibilita a diminuição de internações com prevenção de doenças, acompanhamento e gerenciamento de consultas e medicamentos, centralização das informações de saúde dos idoso para tomada de decisões, acompanhamento e gerenciamento de consultas e medicamentos.
 
-### Suporte ou contato
+# Suporte ou contato
 
 ## Caso possua algum problema, duvida ou sugestão
 
-# Para onde enviar:
-mailto:dalvanirass@gmail.com
+### Para onde enviar:
+dalvanirass@gmail.com
 
-# Template de email
+### Template de email
 Motivação: Erro / Duvida / Sugestão / Outros
 Descrição: O motivo do contato de forma mais detalhada
 Ultima ocorrencia: ( Apenas em casos de erro)
