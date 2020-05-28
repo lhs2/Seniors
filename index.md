@@ -11,12 +11,17 @@ A Aplicação possibilita a diminuição de internações com prevenção de doe
 ## Caso possua algum problema, duvida ou sugestão
 
 ### Para onde enviar:
+
 dalvanirass@gmail.com
 
 ### Template de email
+
 Motivação: Erro / Duvida / Sugestão / Outros
+
 Descrição: O motivo do contato de forma mais detalhada
+
 Ultima ocorrencia: ( Apenas em casos de erro)
+
 Anexo: Captura de tela ( Apenas em casos de erro)
 
 
