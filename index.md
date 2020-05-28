@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+### Sobre a aplicação
 
-You can use the [editor on GitHub](https://github.com/lhs2/seniorsapp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A Seniors APP é uma Solução para acompanhamento e gerenciamento das atividades diárias do estado de saúde de idosos. Permite que as famílias, clínicas e/ou cuidadores gerenciem atividades relacionadas à saúde realizadas pelo idoso, desde o histórico médico, até o uso de medicamentos. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O SeniorsApp oferece tranquilidade, transparência, segurança e acompanhamento quanto aos indicadores de saúde como glicose, batimentos cardíacos, peso e pressão arterial. O gerenciamento e monitoramento das atividades diárias, comunicação e localização do idoso. Apoio para os cuidados da saúde do idoso, permitindo uma continua monitoração, independência e autonomia para realizar suas atividades diárias, Todas as funcionalidades com notificações para que o idoso e familiares possam garantir que as atividades necessárias serão realizadas no horário correto. 
 
-### Markdown
+A Aplicação possibilita a diminuição de internações com prevenção de doenças, acompanhamento e gerenciamento de consultas e medicamentos, centralização das informações de saúde dos idoso para tomada de decisões, acompanhamento e gerenciamento de consultas e medicamentos.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Suporte ou contato
 
-```markdown
-Syntax highlighted code block
+## Caso possua algum problema, duvida ou sugestão
 
-# Header 1
-## Header 2
-### Header 3
+# Para onde enviar:
+mailto:dalvanirass@gmail.com
 
-- Bulleted
-- List
+# Template de email
+Motivação: Erro / Duvida / Sugestão / Outros
+Descrição: O motivo do contato de forma mais detalhada
+Ultima ocorrencia: ( Apenas em casos de erro)
+Anexo: Captura de tela ( Apenas em casos de erro)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lhs2/seniorsapp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
