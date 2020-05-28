@@ -16,13 +16,10 @@ dalvanirass@gmail.com
 
 ### Template de email
 
-Motivação: Erro / Duvida / Sugestão / Outros
-
-Descrição: O motivo do contato de forma mais detalhada
-
-Ultima ocorrencia: ( Apenas em casos de erro)
-
-Anexo: Captura de tela ( Apenas em casos de erro)
+- Motivação: Erro / Duvida / Sugestão / Outros
+- Descrição: O motivo do contato de forma mais detalhada
+- Ultima ocorrencia: ( Apenas em casos de erro)
+- Anexo: Captura de tela ( Apenas em casos de erro)
 
 
 
